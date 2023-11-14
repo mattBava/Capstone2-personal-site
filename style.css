@@ -6,7 +6,7 @@ body{
     font-family: 'Libre Baskerville', serif;
 font-family: 'Source Serif 4', serif;
     color: #422F01;
-    background-color: red;
+    
 }
 h1{
     font-size:77pt;
@@ -112,7 +112,7 @@ gap: 2rem;
 flex-direction: column;
 }
 *{
-    max-width: 390px;
+    max-width: 100vw;
 }
 h1{
     font-size: 60pt;
